@@ -7,6 +7,7 @@ A hand-tracking virtual piano that lets you play music using your webcam and han
 
 <img src="Piano_playing.png" alt="Alt Text" width="300" height="200">
 PLaying Piano
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -48,4 +49,5 @@ python piano.py
 
 
 Enjoy making music! 🎵
+
 
