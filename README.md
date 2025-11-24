@@ -4,8 +4,8 @@ A hand-tracking virtual piano that lets you play music using your webcam and han
 
 ## Screenshots
 
-![Piano Interface](screenshot1.png)
-![Playing Demo](screenshot2.png)
+![Piano Interface](piano.png)
+![Playing Demo](Piano_playing.png)
 
 ## Installation
 
@@ -49,5 +49,6 @@ python piano.py
 
 - Python 3.7+
 - Webcam
+
 
 Enjoy making music! 🎵
