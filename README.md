@@ -4,9 +4,9 @@ A hand-tracking virtual piano that lets you play music using your webcam and han
 
 ## Screenshots
 
-![Piano Interface](piano.png)
-![Playing Demo](Piano_playing.png)
 
+<img src="Piano_playing.png" alt="Alt Text" width="300" height="200">
+PLaying Piano
 ## Installation
 
 ### 1. Clone the Repository
@@ -19,10 +19,6 @@ cd virtual-piano
 ```bash
 pip install -r requirements.txt
 ```
-
-### 3. Add Sound Files
-Place your piano sound files (C4.mp3, Cs4.mp3, D4.mp3, etc.) in a folder named `tones/`
-
 ## How to Run
 
 ```bash
@@ -52,3 +48,4 @@ python piano.py
 
 
 Enjoy making music! 🎵
+
